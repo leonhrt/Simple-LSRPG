@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Finrod Felagund",
+    "player": "Eru Il£vatar",
+    "xp": 144,
+    "body": 3,
+    "mind": 3,
+    "spirit": 0,
+    "class": "Adventurer"
+  },
+  {
+    "name": "Galadriel",
+    "player": "Eru Ilúvatar",
+    "xp": 118,
+    "body": -1,
+    "mind": 2,
+    "spirit": 2,
+    "class": "Adventurer"
+  },
+  {
+    "name": "Hellboy",
+    "player": "ComicSans",
+    "xp": 167,
+    "body": 0,
+    "mind": -1,
+    "spirit": 2,
+    "class": "Adventurer"
+  },
+  {
+    "name": "Jinx",
+    "player": "IPlayLOLInClass",
+    "xp": 50,
+    "body": -1,
+    "mind": 2,
+    "spirit": 2,
+    "class": "Adventurer"
+  },
+  {
+    "name": "Luke Skywalker",
+    "player": "Lucas Films",
+    "xp": 329,
+    "body": -1,
+    "mind": 0,
+    "spirit": -1,
+    "class": "Adventurer"
+  },
+  {
+    "name": "Maedhros",
+    "player": "SonsOfFeanor",
+    "xp": 348,
+    "body": 0,
+    "mind": -1,
+    "spirit": 2,
+    "class": "Adventurer"
+  },
+  {
+    "name": "Niënor Níniel",
+    "player": "Eru Ilúvatar",
+    "xp": 148,
+    "body": 3,
+    "mind": 0,
+    "spirit": 1,
+    "class": "Adventurer"
+  },
+  {
+    "name": "Percival Fredrickstein von Musel Klossowski de Rolo III",
+    "player": "Critter9",
+    "xp": 499,
+    "body": 1,
+    "mind": -1,
+    "spirit": 1,
+    "class": "Adventurer"
+  },
+  {
+    "name": "Túrin Turambar",
+    "player": "Eru Ilúvatar",
+    "xp": 292,
+    "body": 1,
+    "mind": 2,
+    "spirit": 2,
+    "class": "Adventurer"
+  },
+  {
+    "name": "Vi",
+    "player": "IPlayLOLInClass",
+    "xp": 844,
+    "body": 0,
+    "mind": 2,
+    "spirit": -1,
+    "class": "Adventurer"
+  },
+  {
+    "name": "Amrod",
+    "player": "SonsOfFeanor",
+    "xp": 958,
+    "body": 2,
+    "mind": 0,
+    "spirit": 0,
+    "class": "Champion"
+  },
+  {
+    "name": "Caranthir",
+    "player": "SonsOfFeanor",
+    "xp": 1035,
+    "body": 2,
+    "mind": 0,
+    "spirit": 1,
+    "class": "Champion"
+  },
+  {
+    "name": "Curufin",
+    "player": "SonsOfFeanor",
+    "xp": 1015,
+    "body": 1,
+    "mind": 1,
+    "spirit": 1,
+    "class": "Mage"
+  },
+  {
+    "name": "Elendil",
+    "player": "Eru Ilúvatar",
+    "xp": 1036,
+    "body": 1,
+    "mind": 3,
+    "spirit": 2,
+    "class": "Paladin"
+  },
+  {
+    "name": "Fëanor",
+    "player": "SonsOfFeanor",
+    "xp": 1136,
+    "body": 1,
+    "mind": 1,
+    "spirit": 2,
+    "class": "Champion"
+  }
+]

@@ -1,0 +1,17 @@
+unnamed package
+business.entities
+business.entities.character
+business.entities.character.adventurer
+business.entities.character.cleric
+business.entities.character.mage
+business.entities.monster
+business.exceptions
+business.manager.adventure
+business.manager.character
+business.manager.monster
+persistence
+persistence.adventure
+persistence.character
+persistence.exceptions
+persistence.monster
+presentation

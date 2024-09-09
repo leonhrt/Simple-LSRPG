@@ -1,0 +1,290 @@
+[
+  {
+    "name": "Test",
+    "numberEncounters": 3,
+    "encounters": [
+      [
+        {
+          "monster": {
+            "name": "Orc Shaman",
+            "challenge": "Minion",
+            "experience": 5,
+            "hitPoints": 7,
+            "initiative": 1,
+            "damageDice": "d8",
+            "damageType": "Magical"
+          },
+          "value": 4
+        }
+      ],
+      [
+        {
+          "monster": {
+            "name": "Orc Captain",
+            "challenge": "Lieutenant",
+            "experience": 18,
+            "hitPoints": 18,
+            "initiative": 1,
+            "damageDice": "d10",
+            "damageType": "Physical"
+          },
+          "value": 2
+        },
+        {
+          "monster": {
+            "name": "Orc Shaman",
+            "challenge": "Minion",
+            "experience": 5,
+            "hitPoints": 7,
+            "initiative": 1,
+            "damageDice": "d8",
+            "damageType": "Magical"
+          },
+          "value": 6
+        }
+      ],
+      [
+        {
+          "monster": {
+            "name": "Orc Shaman",
+            "challenge": "Minion",
+            "experience": 5,
+            "hitPoints": 7,
+            "initiative": 1,
+            "damageDice": "d8",
+            "damageType": "Magical"
+          },
+          "value": 5
+        },
+        {
+          "monster": {
+            "name": "Orc Captain",
+            "challenge": "Lieutenant",
+            "experience": 18,
+            "hitPoints": 18,
+            "initiative": 1,
+            "damageDice": "d10",
+            "damageType": "Physical"
+          },
+          "value": 3
+        },
+        {
+          "monster": {
+            "name": "Morgoth",
+            "challenge": "Boss",
+            "experience": 168,
+            "hitPoints": 100,
+            "initiative": 4,
+            "damageDice": "d20",
+            "damageType": "Psychical"
+          },
+          "value": 1
+        }
+      ]
+    ]
+  },
+  {
+    "name": "1",
+    "numberEncounters": 4,
+    "encounters": [
+      [
+        {
+          "monster": {
+            "name": "Easterling",
+            "challenge": "Minion",
+            "experience": 4,
+            "hitPoints": 8,
+            "initiative": 0,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          "value": 4
+        },
+        {
+          "monster": {
+            "name": "Caracharoth",
+            "challenge": "Lieutenant",
+            "experience": 38,
+            "hitPoints": 39,
+            "initiative": 3,
+            "damageDice": "d10",
+            "damageType": "Physical"
+          },
+          "value": 2
+        }
+      ],
+      [
+        {
+          "monster": {
+            "name": "Ent",
+            "challenge": "Minion",
+            "experience": 11,
+            "hitPoints": 35,
+            "initiative": -3,
+            "damageDice": "d10",
+            "damageType": "Physical"
+          },
+          "value": 10
+        }
+      ],
+      [
+        {
+          "monster": {
+            "name": "Balrog",
+            "challenge": "Boss",
+            "experience": 120,
+            "hitPoints": 74,
+            "initiative": 2,
+            "damageDice": "d20",
+            "damageType": "Magical"
+          },
+          "value": 1
+        },
+        {
+          "monster": {
+            "name": "Vampire",
+            "challenge": "Lieutenant",
+            "experience": 24,
+            "hitPoints": 24,
+            "initiative": 2,
+            "damageDice": "d10",
+            "damageType": "Magical"
+          },
+          "value": 4
+        },
+        {
+          "monster": {
+            "name": "Orc",
+            "challenge": "Minion",
+            "experience": 3,
+            "hitPoints": 9,
+            "initiative": -1,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          "value": 7
+        }
+      ],
+      [
+        {
+          "monster": {
+            "name": "Glaurung the Great Worm",
+            "challenge": "Boss",
+            "experience": 140,
+            "hitPoints": 81,
+            "initiative": 3,
+            "damageDice": "d20",
+            "damageType": "Psychical"
+          },
+          "value": 1
+        },
+        {
+          "monster": {
+            "name": "Ent",
+            "challenge": "Minion",
+            "experience": 11,
+            "hitPoints": 35,
+            "initiative": -3,
+            "damageDice": "d10",
+            "damageType": "Physical"
+          },
+          "value": 10
+        },
+        {
+          "monster": {
+            "name": "Goblin Captain",
+            "challenge": "Lieutenant",
+            "experience": 10,
+            "hitPoints": 10,
+            "initiative": 1,
+            "damageDice": "d8",
+            "damageType": "Physical"
+          },
+          "value": 4
+        }
+      ]
+    ]
+  },
+  {
+    "name": "si",
+    "numberEncounters": 2,
+    "encounters": [
+      [
+        {
+          "monster": {
+            "name": "Morgoth",
+            "challenge": "Boss",
+            "experience": 168,
+            "hitPoints": 100,
+            "initiative": 4,
+            "damageDice": "d20",
+            "damageType": "Psychical"
+          },
+          "value": 1
+        },
+        {
+          "monster": {
+            "name": "Warg Rider",
+            "challenge": "Minion",
+            "experience": 6,
+            "hitPoints": 6,
+            "initiative": 2,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          "value": 2
+        }
+      ],
+      [
+        {
+          "monster": {
+            "name": "Mumakil",
+            "challenge": "Minion",
+            "experience": 11,
+            "hitPoints": 29,
+            "initiative": -1,
+            "damageDice": "d12",
+            "damageType": "Physical"
+          },
+          "value": 6
+        },
+        {
+          "monster": {
+            "name": "Gothmog",
+            "challenge": "Boss",
+            "experience": 148,
+            "hitPoints": 87,
+            "initiative": 3,
+            "damageDice": "d20",
+            "damageType": "Magical"
+          },
+          "value": 1
+        },
+        {
+          "monster": {
+            "name": "Orc Captain",
+            "challenge": "Lieutenant",
+            "experience": 18,
+            "hitPoints": 18,
+            "initiative": 1,
+            "damageDice": "d10",
+            "damageType": "Physical"
+          },
+          "value": 2
+        },
+        {
+          "monster": {
+            "name": "Half-orc",
+            "challenge": "Minion",
+            "experience": 4,
+            "hitPoints": 8,
+            "initiative": 0,
+            "damageDice": "d6",
+            "damageType": "Physical"
+          },
+          "value": 3
+        }
+      ]
+    ]
+  }
+]
